@@ -1,5 +1,5 @@
 # Send email massively
-### This project contains following files:
+### This project contains following files :
 1. sendEmail.py - source code
 2. body.txt - contains email content
 3. from.txt - contains all emails used to send, each line contains email and password, must be separated by a single space
